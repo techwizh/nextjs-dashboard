@@ -2,7 +2,7 @@
 
 Dashboard app from the [Next.js App Router Course](https://nextjs.org/learn/dashboard-app).
 
-**Live demo:** [nextjs-dashboard-techwizhs-projects.vercel.app](https://nextjs-dashboard-techwizhs-projects.vercel.app)
+**Live demo:** [nextjs-dashboard-ten-sigma-u5e22t1u16.vercel.app](https://nextjs-dashboard-ten-sigma-u5e22t1u16.vercel.app)
 
 Login: `user@nextmail.com` / `123456`
 
